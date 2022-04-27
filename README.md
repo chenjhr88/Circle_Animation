@@ -1,3 +1,3 @@
 # create-proj
 
-JS animation on HTML
+JS animation on HTML with user interaction
